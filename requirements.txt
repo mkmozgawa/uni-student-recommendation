@@ -2,6 +2,7 @@ backcall==0.1.0
 cycler==0.10.0
 decorator==4.4.0
 descartes==1.1.0
+graphviz==0.10.1
 ipykernel==5.1.0
 ipython==7.5.0
 ipython-genutils==0.2.0
@@ -19,8 +20,11 @@ parso==0.4.0
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
+plotnine==0.5.1
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
+pydot==1.4.1
+pydotplus==2.0.2
 Pygments==2.4.0
 pyparsing==2.4.0
 python-dateutil==2.8.0
