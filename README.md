@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Note that this project is only Python3-compatible.
 
 #### Shiny App
-Best run from withing the RStudio. Import the folder and open any of the R files, then click "Run App". It's not much, but it took me about an hour to assemble, so [it's something](https://knowyourmeme.com/memes/its-something).
+Best run from withing the RStudio. Import the folder and open any of the R files, then click "Run App" (you may have to install a few packages first). It's not much, but it took me about an hour to assemble, so [it's something](https://knowyourmeme.com/memes/its-something).
 
 
 ### Comments and limitations
