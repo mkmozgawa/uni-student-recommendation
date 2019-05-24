@@ -1,3 +1,6 @@
 requirements.pdf
 venv/
 .ipynb_checkpoints/
+.Rproj.user
+uni-student-recommendation.Rproj
+.vscode/

@@ -2,7 +2,7 @@
 My attempt at creating a [Weapon of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 ### What's in store
-There's a Jupyter notebook with some preliminary analysis, a Shiny app to to some simple 2D plots based off the data, and a small Flask app (in progress) you can shoot at with your own data to see if you'd be accepted by the Mighty Model.
+There's a Jupyter notebook with some preliminary analysis, and a Shiny app to to some simple 2D plots based off the data.
 
 ### How to run
 #### Jupyter Notebook
@@ -16,8 +16,6 @@ Note that this project is only Python3-compatible.
 
 #### Shiny App
 Best run from withing the RStudio. Import the folder and open any of the R files, then click "Run App". It's not much, but it took me about an hour to assemble, so [it's something](https://knowyourmeme.com/memes/its-something).
-
-#### Flask app
 
 
 ### Comments and limitations
